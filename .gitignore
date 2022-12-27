@@ -2,5 +2,5 @@ build/
 nbproject/
 test/
 build.xml
-manifest.manifest
+/manifest.mf
 StudentManagement.iml
